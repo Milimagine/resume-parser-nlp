@@ -1,0 +1,5 @@
+spacy
+pdfplumber
+python-docx
+phonenumbers
+email-validator
